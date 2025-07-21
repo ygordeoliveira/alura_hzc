@@ -1,4 +1,6 @@
-# Guia de estilos
+# Project - alura_hzc
+
+## Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
 
